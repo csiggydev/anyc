@@ -1,1 +1,8 @@
-language: python
+---
+language: "python"
+python:
+  - "3.8"
+
+# Install python package.
+install:
+  - "pip install -r requirements.txt"
