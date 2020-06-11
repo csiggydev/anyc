@@ -1,8 +1,9 @@
 ---
+# Install Python 3.8
 language: "python"
 python:
   - "3.8"
 
-# Install python package.
+# Install Required modules.
 install:
   - "pip install -r requirements.txt"
