@@ -10,3 +10,5 @@ pyserial==3.4
 scp==0.13.2
 six==1.15.0
 textfsm==1.1.0
+pytest
+pylint==2.4.4
